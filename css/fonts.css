@@ -1,0 +1,31 @@
+/* Font Family Declaration */
+
+@font-face {
+    font-family: Anton;
+    src: url('../Fonts/Anton/Anton-Regular.ttf');
+}
+
+@font-face {
+    font-family: Bellefair;
+    src: url('../Fonts/Bellefair/Bellefair-Regular.ttf');
+}
+
+@font-face {
+    font-family: IBM_Plex_Sans;
+    src: url('../Fonts/IBM_Plex_Sans/IBMPlexSans-Regular.ttf');
+}
+
+@font-face {
+    font-family: Libre_Franklin;
+    src: url('../Fonts/Libre_Franklin/LibreFranklin-Regular.ttf');
+}
+
+@font-face {
+    font-family: Scada;
+    src: url('../Fonts/Scada/Scada-Regular.ttf');
+}
+
+@font-face {
+    font-family: Acme;
+    src: url('../Fonts/Acme/Acme-Regular.ttf');
+}
